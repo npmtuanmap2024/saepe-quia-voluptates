@@ -7,6 +7,8 @@ var $TypeError = require('es-errors/type');
 
 var gopd = require('gopd');
 
+
+
 /** @type {import('.')} */
 module.exports = function defineDataProperty(
 	obj,
